@@ -21,7 +21,7 @@
                         
                         <h3> Login</h3>
                         
-                        <label>Bienvenidos al Sistema Vanish</label>
+                        <label>Bienvenidos al sistema de control de Quejas</label>
                         </div>
                         
                         <div class="form-group">  
