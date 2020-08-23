@@ -21,7 +21,7 @@
                         
                         <h3> Login</h3>
                         
-                        <label>Bienvenidos al Sistema </label>
+                        <label>Bienvenidos al Sistema Vanish</label>
                         </div>
                         
                         <div class="form-group">  
