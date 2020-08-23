@@ -1,6 +1,6 @@
 <%-- 
-    Document   : PantallaPrincipalCatalogoUsuarios
-    Created on : 23/08/2020, 04:32:44 PM
+    Document   : CatalogoPuntosDeAtencionView
+    Created on : 23/08/2020, 04:42:06 PM
     Author     : elior
 --%>
 
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Catalogo de usuarios</h1>
+        <h1>Hello World!</h1>
     </body>
 </html>
