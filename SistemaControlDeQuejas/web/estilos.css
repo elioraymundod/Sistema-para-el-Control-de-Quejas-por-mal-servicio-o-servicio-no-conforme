@@ -1,0 +1,26 @@
+body{
+    
+}
+h3{
+    font-size: 40px;
+}
+
+.cambio{
+    columns: #ba11db;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    height: 190px;
+    width: 190px;
+}
+
+.color{
+    color: darkred;
+}
+
+::placeholder{
+    color:red;
+    font-size: 25px;
+}
