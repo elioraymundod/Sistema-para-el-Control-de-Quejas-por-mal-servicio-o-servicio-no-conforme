@@ -45,7 +45,7 @@
                 <td>elioraymundod</td>
                 <td>raymundoelio@gmail.com</td>
                 <td>Jefe inmediato</td>
-                <td>Activo</td>
+                <td>Inactivo</td>
                 <td><button type="button" class="btn" style="background-color: #5e35b1; color: white;">Modificar</button></td>
               </tr>
               <tr>
