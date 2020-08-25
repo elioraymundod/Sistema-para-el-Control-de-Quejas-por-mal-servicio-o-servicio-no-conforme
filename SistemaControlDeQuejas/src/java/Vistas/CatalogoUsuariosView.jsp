@@ -212,7 +212,7 @@
         </div>
         
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-        <!-- Script para seleccionar una region -->
+        <!-- Script para seleccionar un dato de los dropdowns -->
         <script>
           $(document).ready(function () {
             $('#getRegion a').on('click', function () {
