@@ -25,7 +25,7 @@
                         <h3 class="cambio"> Login</h3>
             
                         <img src="img/usuario.png" alt="icono"/>
-                        <label>Ingrese su usuario y contraseña</label>
+                      
                         </div>
                         
                         <div class="form-group">  
