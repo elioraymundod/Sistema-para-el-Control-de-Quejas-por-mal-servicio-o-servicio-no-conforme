@@ -16,6 +16,7 @@
                             
                    <!-- no se dame ideas pa ponerlo mejor , esta es temporal :v-->     
                         <h2>Bienvenido</h2>
+                        <br>
                         <img src="img/logo.png" alt="80" width="400"/>   
                         </div>                    
                            <Center>  <a href="LoginUsuariosView.jsp" target="_blank"> <img src="img/loginn2.png" alt="iconoo" width="90"/>  </a> </Center>  
